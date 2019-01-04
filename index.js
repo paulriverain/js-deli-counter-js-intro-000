@@ -1,5 +1,5 @@
+//DELI COUNTER LAB
 //let katzDeliLine = ['jim', 'bob', 'carel', 'katie', 'sam','brenda', 'hanna','ray']
-
 function takeANumber(katzDeliLine, name){
   katzDeliLine.push(name)
   return `Welcome, ${name}. You are number ${katzDeliLine.length} in line.`
